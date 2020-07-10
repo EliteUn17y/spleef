@@ -33,7 +33,7 @@ public class Main extends JavaPlugin {
 
         System.out.println("~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("                     ");
-        System.out.println("Spleef V1.0.0 By Django");
+        System.out.println("Spleef V1.0.0 By EliteUn17y");
         System.out.println("                      ");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~");
 
