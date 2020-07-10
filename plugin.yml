@@ -1,0 +1,6 @@
+main: EliteUn17y.spleef.Main
+name: Spleef
+version: 1.0
+author: Django
+commands:
+  spleef:
